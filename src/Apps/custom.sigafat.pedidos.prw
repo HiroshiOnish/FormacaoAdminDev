@@ -1,4 +1,4 @@
-#include "totvs.ch"
+#include 'totvs.ch'
 
  /*/{Protheus.doc} Teste
     (long_description)

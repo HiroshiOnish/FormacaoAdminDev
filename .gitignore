@@ -1,7 +1,10 @@
-#TOTVS
+<<<<<<< HEAD
+# TOTVS
 .github/
 .vscode/
 
+=======
+>>>>>>> 7b380ff5d9c415c9a476e4b115720331b2101274
 # Angular specific
 /dist/
 /out-tsc/
